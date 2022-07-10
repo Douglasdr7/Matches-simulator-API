@@ -8,12 +8,12 @@
       "mandante": {
         "nome": "Brasil",
         "forca": 5,
-        "imagem": "https://http2.mlstatic.com/D_NQ_NP_872865-MLB41380348359_042020-O.jpg"
+        "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
       },
        "visitante": {
           "nome": "Argentina",
           "forca": 5,
-          "imagem": "https://img.freepik.com/fotos-gratis/bandeira-da-argentina_1401-57.jpg?w=740&t=st=1657060352~exp=1657060952~hmac=438bc2fd4984f43e8c05b0f5b207ba802dde189d5ef5a55d9fde9fa59906b661"
+          "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
       }  
    }
 ]
